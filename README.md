@@ -43,6 +43,9 @@ The Excel dataset includes the following key columns:
 - 🎯 Office Supplies have consistent profitability.
 - 🚚 Most shipments use Standard Class shipping.
 
+![Dashboard Screenshot](Dashboard.png)
+
+
 ---
 
 ## 🚀 How to Use
